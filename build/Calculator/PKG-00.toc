@@ -1,0 +1,68 @@
+('E:\\Python Projects\\Python '
+ 'GUIs\\Calculator\\build\\Calculator\\Calculator.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'E:\\Python Projects\\Python '
+   'GUIs\\Calculator\\build\\Calculator\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\Tiran '
+   'Vitharana\\AppData\\Local\\Programs\\Python\\Python310\\lib\\struct.pyo',
+   'PYMODULE'),
+  ('pyimod01_os_path',
+   'e:\\python projects\\python guis\\calculator '
+   '(basic)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod01_os_path.pyc',
+   'PYMODULE'),
+  ('pyimod02_archive',
+   'e:\\python projects\\python guis\\calculator '
+   '(basic)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod02_archive.pyc',
+   'PYMODULE'),
+  ('pyimod03_importers',
+   'e:\\python projects\\python guis\\calculator '
+   '(basic)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod03_importers.pyc',
+   'PYMODULE'),
+  ('pyimod04_ctypes',
+   'e:\\python projects\\python guis\\calculator '
+   '(basic)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyimod04_ctypes.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'e:\\python projects\\python guis\\calculator '
+   '(basic)\\venv\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'E:\\Python Projects\\Python GUIs\\Calculator '
+   '(Basic)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'E:\\Python Projects\\Python GUIs\\Calculator '
+   '(Basic)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'E:\\Python Projects\\Python GUIs\\Calculator '
+   '(Basic)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'E:\\Python Projects\\Python GUIs\\Calculator '
+   '(Basic)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'E:\\Python Projects\\Python GUIs\\Calculator '
+   '(Basic)\\venv\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('Calculator',
+   'E:\\Python Projects\\Python GUIs\\Calculator\\Calculator.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
